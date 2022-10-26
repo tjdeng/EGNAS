@@ -1,6 +1,6 @@
 # EGNAS: Efficient Graph Neural Architecture Search using Monte Carlo Tree Search and Prediction Network
 Code for paper:  
-> [Efficient Graph Neural Architecture Search using Monte Carlo Tree Search and Prediction Network]()  
+> [Efficient Graph Neural Architecture Search using Monte Carlo Tree Search and Prediction Network](https://www.sciencedirect.com/science/article/abs/pii/S0957417422019340)  
 > TianJin Deng, Jia Wu   
 > *Expert Systems with Applications 2022*
 
