@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0100e1e-1b17-4fea-9fc1-4cf62a10d761" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../EGNAS/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../EGNAS/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="484">
+                <caret line="61" selection-start-line="61" selection-end-line="61" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>['gat', 'sum', 'leaky_relu', 6, 256, 'gat', 'sum', 'elu', 4, 6]</find>
+      <find>['const', 'mean', 'tanh', 6, 16, 'gcn', 'sum', 'linear', 2, 8]</find>
+      <find>entropy_mode</find>
+      <find>['const', 'sum', 'tanh', 1, 64, 'gat', 'sum', 'tanh', 4, 3]</find>
+      <find>['const', 'sum', 'linear', 16, 4, 'gat', 'sum', 'tanh', 16, 3]</find>
+      <find>['const', 'sum', 'elu', 1, 64, 'generalized_linear', 'sum', 'tanh', 6, 3]</find>
+      <find>['const', 'sum', 'tanh', 16, 4, 'generalized_linear', 'sum', 'tanh', 8, 3]</find>
+      <find>['gcn', 'sum', 'elu', 2, 8, 'gat', 'sum', 'elu', 2, 3]</find>
+      <find>dp</find>
+      <find>trnr</find>
+      <find>['const', 'sum', 'relu6', 8, 256, 'generalized_linear', 'sum', 'linear', 4, 7]</find>
+      <find>self.trainer</find>
+      <find>select_num</find>
+      <find>ema_baseline_decay</find>
+      <find>tree_height</find>
+      <find>_decoders</find>
+      <find>pg_citeseer_bad</find>
+      <find>datasets</find>
+      <find>dataset</find>
+      <find>srch_str</find>
+      <find>process</find>
+      <find>egnas</find>
+      <find>graphnas</find>
+      <find>is_mlp</find>
+      <find>False</find>
+      <find>True</find>
+      <find>log_output_dir</find>
+      <find>best_structure</find>
+      <find>top_k</find>
+      <find>is_predictor</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Citeseer_macrosub_manager_logger_file_1625598541.3027487" />
+        <option value="$PROJECT_DIR$/Citeseer_macrosub_manager_logger_file_1625598541.3027487.txt" />
+        <option value="$PROJECT_DIR$/Citeseer_macrosub_manager_logger_file_1625610492.3659647.txt" />
+        <option value="$PROJECT_DIR$/Cora_macrosub_manager_logger_file_1626951555.9577208.txt" />
+        <option value="$PROJECT_DIR$/computer2_Tree5_mlp256_128/Cora_Cp=0.1_no_mlp/Cora_macrosub_manager_logger_file_1625872117.1636078.txt" />
+        <option value="$PROJECT_DIR$/LaNAS/Classifier.py" />
+        <option value="$PROJECT_DIR$/computer2_modify_sampling_func/Citeseer/Citeseer_macrosub_manager_logger_file_1629254169.964016.txt" />
+        <option value="$PROJECT_DIR$/computer2_modify_sampling_func/Citeseer/Citeseer_macrosub_manager_logger_file_1629330632.4439435.txt" />
+        <option value="$PROJECT_DIR$/Pubmed_macrosub_manager_logger_file_1629635092.7056522.txt" />
+        <option value="$PROJECT_DIR$/computer2_modify_sampling_func/Pubmed_Cp=0.1/Pubmed_macrosub_manager_logger_file_1629331633.273797.txt" />
+        <option value="$PROJECT_DIR$/computer2_modify_sampling_func/Pubmed_Cp=1.0/Pubmed_macrosub_manager_logger_file_1629747434.851155.txt" />
+        <option value="$PROJECT_DIR$/RS/Pubmed/Pubmed_macrosub_manager_logger_file_1628042095.5701475.txt" />
+        <option value="$PROJECT_DIR$/BO/Pubmed/Pubmed_macrosub_manager_logger_file_1629040625.3409674.txt" />
+        <option value="$PROJECT_DIR$/GNAS/Pubmed/Pubmed_macrosub_manager_logger_file_1626447143.2964678.txt" />
+        <option value="$PROJECT_DIR$/computer2_modify_sampling_func/Pubmed_Cp=1.0_mlp400_with0.0/Pubmed_macrosub_manager_logger_file_1630117914.6362076.txt" />
+        <option value="$USER_HOME$/anaconda3/envs/MGNAS/lib/python3.6/site-packages/torch_geometric/transforms/AddTrainValTestMask.py" />
+        <option value="$USER_HOME$/anaconda3/envs/MGNAS/lib/python3.6/site-packages/torch_geometric/transforms/__init__.py" />
+        <option value="$USER_HOME$/anaconda3/envs/MGNAS/lib/python3.6/site-packages/torch_geometric/transforms/BaseTransform.py" />
+        <option value="$PROJECT_DIR$/graphnas_variants/macro_graphnas/pyg/dataset.py" />
+        <option value="$PROJECT_DIR$/graphnas_variants/macro_graphnas/pyg/dataset_split.py" />
+        <option value="$PROJECT_DIR$/graphnas/utils/label_split.py" />
+        <option value="$PROJECT_DIR$/computer2_modify_sampling_func/Photo/Photo_macrosub_manager_logger_file_1630280076.5204036.txt" />
+        <option value="$PROJECT_DIR$/RS/Photo/Photo_macrosub_manager_logger_file_1630341520.936996.txt" />
+        <option value="$PROJECT_DIR$/computer2_modify_sampling_func/Photo_Cp=0.1_mlp400/Photo_macrosub_manager_logger_file_1630551012.5080101.txt" />
+        <option value="$PROJECT_DIR$/graphnas/search_space.py" />
+        <option value="$PROJECT_DIR$/Photo_macrosub_manager_logger_file_1632790812.1435916.txt" />
+        <option value="$PROJECT_DIR$/Photo_macrosub_manager_logger_file_1632790812.1435916_mlp.txt" />
+        <option value="$PROJECT_DIR$/graphnas/generator.py" />
+        <option value="$PROJECT_DIR$/graphnas/process.py" />
+        <option value="$PROJECT_DIR$/environment.yaml" />
+        <option value="$PROJECT_DIR$/graphnas/ppo2.py" />
+        <option value="$PROJECT_DIR$/graphnas/compute_training_costs.py" />
+        <option value="$PROJECT_DIR$/Drawing/val_acc_and_cost.py" />
+        <option value="$PROJECT_DIR$/Drawing/best_val_accuracy.py" />
+        <option value="$PROJECT_DIR$/graphnas/gnn_model_manager.py" />
+        <option value="$PROJECT_DIR$/graphnas/trainer.py" />
+        <option value="$PROJECT_DIR$/graphnas/mlp.py" />
+        <option value="$PROJECT_DIR$/graphnas/main.py" />
+        <option value="$PROJECT_DIR$/graphnas/search_strategy.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/egnas/arch_process.py" />
+        <option value="$PROJECT_DIR$/graphnas_variants/macro_graphnas/pyg/pyg_gnn_model_manager.py" />
+        <option value="$PROJECT_DIR$/graphnas_variants/macro_graphnas/pyg/pyg_gnn.py" />
+        <option value="$PROJECT_DIR$/egnas/mlp.py" />
+        <option value="$PROJECT_DIR$/egnas/search_strategy.py" />
+        <option value="$PROJECT_DIR$/egnas/graphnas_controller.py" />
+        <option value="$PROJECT_DIR$/egnas/trainer.py" />
+        <option value="$PROJECT_DIR$/LaNAS/MCTS.py" />
+        <option value="$PROJECT_DIR$/egnas/gnn_model_manager.py" />
+        <option value="$PROJECT_DIR$/egnas/main.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="203" />
+    <option name="y" value="136" />
+    <option name="width" value="1658" />
+    <option name="height" value="997" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="EGNAS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EGNAS" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Drawing/Intuition_exp_on_Cora" />
+      <recent name="$PROJECT_DIR$/Exp_results/Extended_exps" />
+      <recent name="$PROJECT_DIR$/Cora_mcts_tree_height" />
+      <recent name="$PROJECT_DIR$/Cora_use_time_predictor_v2" />
+      <recent name="$PROJECT_DIR$/Cora_use_time_predictor" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Ablation/PG" />
+      <recent name="$PROJECT_DIR$/graphnas_variants/macro_graphnas/data" />
+      <recent name="$PROJECT_DIR$/Ablation/PPO+MCTS" />
+      <recent name="$PROJECT_DIR$/Ablation/PPO" />
+      <recent name="$PROJECT_DIR$/Abalation/PPO+MCTS" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="EGNAS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/egnas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/egnas/main.py" />
+      <option name="PARAMETERS" value="--dataset Cora --search_samples 200 --is_predictor 0 --search_strategy PPO+MCTS --Cp 0.1 --init_samples 60" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0100e1e-1b17-4fea-9fc1-4cf62a10d761" name="Default" comment="" />
+      <created>1620268668461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620268668461</updated>
+      <workItem from="1641450949326" duration="3647000" />
+      <workItem from="1666748716685" duration="264000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3911000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49832028" visible="true" weight="0.27211797" />
+      <window_info id="Structure" order="1" sideWeight="0.5016797" side_tool="true" weight="0.26840067" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3281075" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39977604" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32921347" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50470394" side_tool="true" weight="0.96864504" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="9" sideWeight="0.4997233" weight="0.32698768" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49529606" weight="0.37290034" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" weight="0.32982844" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="5" />
+      <window_info anchor="right" id="R Packages" order="6" weight="0.32872164" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../EGNAS/SNAG/rlctr/generator.py</url>
+          <line>1</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../EGNAS/egnas/trainer.py</url>
+          <line>488</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../EGNAS/egnas/trainer.py</url>
+          <line>513</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../EGNAS/egnas/trainer.py</url>
+          <line>531</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Exp_results/GNAS/Pubmed/Pubmed_macrosub_manager_logger_file_1626266263.7364268.txt" />
+    <entry file="file://$PROJECT_DIR$/Exp_results/GNAS/Pubmed/Pubmed_macrosub_manager_logger_file_1626447143.2964678.txt" />
+    <entry file="file://$PROJECT_DIR$/Exp_results/EGNAS-computer2/modify_sampling_func/semi-supervised/Pubmed_Cp=1.0_mlp200/Pubmed_macrosub_manager_logger_file_1629574195.5831923_mlp.txt" />
+    <entry file="file://$PROJECT_DIR$/Exp_results/EGNAS-computer2/modify_sampling_func/semi-supervised/Pubmed_Cp=1.0_mlp200/Pubmed_macrosub_manager_logger_file_1629574195.5831923.txt" />
+    <entry file="file://$PROJECT_DIR$/Exp_results/EGNAS-computer2/modify_sampling_func/semi-supervised/Pubmed_Cp=1.0_mlp200/Pubmed_macrosub_manager_logger_file_1629556879.8865592_mlp.txt" />
+    <entry file="file://$PROJECT_DIR$/Exp_results/EGNAS-computer2/modify_sampling_func/semi-supervised/Pubmed_Cp=1.0_mlp400_no0.0/Pubmed_macrosub_manager_logger_file_1630021563.8759303.txt" />
+    <entry file="file://$PROJECT_DIR$/Exp_results/EGNAS-computer2/modify_sampling_func/semi-supervised/Pubmed_Cp=1.0_mlp400_with0.0/Pubmed_macrosub_manager_logger_file_1630117914.6362076.txt" />
+    <entry file="file://$PROJECT_DIR$/Exp_results/EGNAS-computer2/modify_sampling_func/semi-supervised/Citeseer_Cp=0.1_mlp400/Citeseer_macrosub_manager_logger_file_1629986548.8941128.txt" />
+    <entry file="file://$PROJECT_DIR$/../EGNAS/graphnas_variants/macro_graphnas/pyg/dataset_split.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Drawing/best_val_accuracy.py" />
+    <entry file="file://$PROJECT_DIR$/Drawing/Ablation/PG/Citeseer/Citeseer_macrosub_manager_logger_file_1626117295.201555.txt" />
+    <entry file="file://$PROJECT_DIR$/Drawing/val_acc_and_cost.py" />
+    <entry file="file://$PROJECT_DIR$/Drawing/test_unqiue_samples.py" />
+    <entry file="file://$PROJECT_DIR$/Drawing/num_high_val.py" />
+    <entry file="file://$PROJECT_DIR$/Drawing/count.py" />
+    <entry file="file://$PROJECT_DIR$/Exp_results/EGNAS-computer2/modify_sampling_func/semi-supervised/Cora_Cp=0.1_mlp400/Cora_macrosub_manager_logger_file_1629931681.2274632.txt" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/MGNAS/lib/python3.6/site-packages/torch/cuda/random.py" />
+    <entry file="file://$PROJECT_DIR$/Cora_macrosub_manager_logger_file_1642145054.5690174.txt" />
+    <entry file="file://$PROJECT_DIR$/result.txt" />
+    <entry file="file://$PROJECT_DIR$/eval_scripts/semi/variants/eval_random_nas_gnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EGNAS/graphnas_variants/macro_graphnas/pyg/pyg_gnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EGNAS/graphnas_variants/micro_graphnas/micro_model_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="68" column="58" selection-start-line="68" selection-start-column="58" selection-end-line="68" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log_exp_res/Cora/rand_seed123_predictor.txt" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/MGNAS/lib/python3.6/ctypes/__init__.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/338945216/builtins.py" />
+    <entry file="file://$PROJECT_DIR$/../EGNAS/LaNAS/MCTS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2755">
+          <caret line="377" selection-start-line="377" selection-end-line="377" />
+          <folding>
+            <element signature="e#197#208#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log_exp_res/Cora.txt" />
+    <entry file="file://$PROJECT_DIR$/../EGNAS/graphnas_variants/macro_graphnas/pyg/pyg_gnn_model_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1342">
+          <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log_exp_res/Cora/rand_seed456.txt" />
+    <entry file="file://$PROJECT_DIR$/log_exp_res/Cora/rand_seed123.txt" />
+    <entry file="file://$PROJECT_DIR$/log_exp_res/Cora/avg_results.txt" />
+    <entry file="file://$PROJECT_DIR$/log_exp_res/Cora_predictor/rand_seed123.txt" />
+    <entry file="file://$PROJECT_DIR$/log_exp_res/Cora_predictor/rand_seed123_predictor.txt" />
+    <entry file="file://$PROJECT_DIR$/log_exp_res/Cora_predictor/avg_results.txt" />
+    <entry file="file://$PROJECT_DIR$/egnas/compute_training_costs.py" />
+    <entry file="file://$PROJECT_DIR$/log_exp_res/Photo/rand_seed123.txt" />
+    <entry file="file://$PROJECT_DIR$/../EGNAS/egnas/arch_process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-641">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EGNAS/egnas/gnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1056">
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EGNAS/egnas/gnn_model_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3273">
+          <caret line="167" column="8" selection-start-line="167" selection-start-column="8" selection-end-line="167" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EGNAS/egnas/graphnas_controller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-638">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EGNAS/egnas/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="153" column="15" selection-start-line="153" selection-start-column="15" selection-end-line="153" selection-end-column="15" />
+          <folding>
+            <element signature="e#20#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EGNAS/egnas/mlp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EGNAS/egnas/ppo2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EGNAS/egnas/search_space.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EGNAS/egnas/search_strategy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1741">
+          <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DockerFile" />
+    <entry file="file://$PROJECT_DIR$/environment.yaml" />
+    <entry file="file://$PROJECT_DIR$/../EGNAS/egnas/trainer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2464">
+          <caret line="483" column="8" selection-start-line="483" selection-start-column="8" selection-end-line="483" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EGNAS/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-990" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EGNAS/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EGNAS/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="484">
+            <caret line="61" selection-start-line="61" selection-end-line="61" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
