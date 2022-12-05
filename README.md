@@ -57,5 +57,18 @@ To implement this repo, we refer to the following code:
 [GraphNAS](https://github.com/GraphNAS/GraphNAS) and
 [LaNAS](https://github.com/facebookresearch/LaMCTS)
 
+### Citation
+If you find our work useful, please consider citing it:
+```python
+@article{deng2023efficient,
+  title={Efficient graph neural architecture search using Monte Carlo Tree search and prediction network},
+  author={Deng, TianJin and Wu, Jia},
+  journal={Expert Systems with Applications},
+  volume={213},
+  pages={118916},
+  year={2023},
+  publisher={Elsevier}
+}
+```
 
 
